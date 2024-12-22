@@ -1,0 +1,1 @@
+print('LE' if int(input())%2 else 'CHAN')
